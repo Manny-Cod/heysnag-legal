@@ -5,11 +5,15 @@ canonical_url: https://heysnag.app/terms
 
 # Terms of Service
 
-**Effective May 5, 2026**
+<div class="doc-meta" markdown="1">
+**Effective** May 5, 2026 · **Contact** [hello@heysnag.app](mailto:hello@heysnag.app) · **Version** 2026-05-05
+</div>
 
 Welcome to Snag. These Terms of Service ("Terms") are an agreement between you and Snag Entertainment LLC, a Colorado limited liability company ("Snag", "we", "us", "our"), governing your use of the Snag mobile application (the "App"). By creating an account, signing in, or otherwise using the App, you agree to these Terms and to our Privacy Policy (incorporated by reference). If you do not agree, do not use the App.
 
+<div class="callout callout-warning" markdown="1">
 PLEASE NOTE: THESE TERMS CONTAIN A BINDING ARBITRATION AGREEMENT AND A CLASS ACTION WAIVER. YOU AND SNAG AGREE TO RESOLVE MOST DISPUTES THROUGH INDIVIDUAL ARBITRATION RATHER THAN A COURT TRIAL OR CLASS ACTION. YOU MAY OPT OUT OF ARBITRATION WITHIN 30 DAYS OF FIRST CREATING YOUR ACCOUNT BY EMAILING hello@heysnag.app. SEE THE "DISPUTE RESOLUTION AND BINDING ARBITRATION" SECTION BELOW FOR DETAILS.
+</div>
 
 ## What Snag Is
 
@@ -138,15 +142,19 @@ If you obtained the App through the Apple App Store, the following terms apply b
 
 ## Disclaimer of Warranties
 
+<div class="callout callout-legal" markdown="1">
 THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE. TO THE FULLEST EXTENT PERMITTED BY LAW, SNAG DISCLAIMS ALL WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING FROM COURSE OF DEALING OR USAGE OF TRADE. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, OR FREE OF HARMFUL COMPONENTS, THAT DEFECTS WILL BE CORRECTED, OR THAT ANY VERDICTS OR OTHER AI OUTPUTS WILL BE ACCURATE, USEFUL, OR APPROPRIATE.
+</div>
 
 Some jurisdictions do not allow the exclusion of certain warranties, so the disclaimers above may not apply to you.
 
 ## Limitation of Liability
 
+<div class="callout callout-legal" markdown="1">
 TO THE FULLEST EXTENT PERMITTED BY LAW, SNAG, ITS MEMBERS, OFFICERS, EMPLOYEES, AND SERVICE PROVIDERS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, GOODWILL, OR BUSINESS OPPORTUNITIES, ARISING OUT OF OR RELATING TO YOUR USE OF THE APP, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 OUR TOTAL CUMULATIVE LIABILITY FOR ANY CLAIM RELATING TO THE APP WILL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU HAVE PAID SNAG IN THE TWELVE MONTHS PRECEDING THE CLAIM, OR (B) USD $100.
+</div>
 
 Some jurisdictions do not allow these limitations, so they may not apply to you.
 
@@ -156,7 +164,9 @@ You agree to defend, indemnify, and hold harmless Snag and its members, officers
 
 ## Dispute Resolution and Binding Arbitration
 
+<div class="callout callout-warning" markdown="1">
 PLEASE READ THIS SECTION CAREFULLY. IT REQUIRES YOU AND SNAG TO RESOLVE DISPUTES THROUGH BINDING INDIVIDUAL ARBITRATION AND WAIVES YOUR RIGHT TO A JURY TRIAL OR TO PARTICIPATE IN A CLASS ACTION.
+</div>
 
 - Informal resolution first — before filing a claim, you agree to attempt to resolve the dispute by emailing us at hello@heysnag.app with a written description of the dispute and your contact information. We will attempt to resolve the dispute informally for 60 days from the date you send the email.
 - Binding arbitration — if the dispute is not resolved within 60 days, you and Snag agree to resolve the dispute through binding arbitration administered by JAMS under its Streamlined Arbitration Rules then in effect, except as modified by these Terms. The arbitration will take place in Denver, Colorado, or remotely at the arbitrator's discretion.

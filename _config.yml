@@ -1,0 +1,14 @@
+title: Snag
+description: Legal documents for Snag — Privacy Policy and Terms of Service.
+url: https://heysnag.app
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+plugins:
+  - jekyll-seo-tag

@@ -5,7 +5,9 @@ canonical_url: https://heysnag.app/privacy
 
 # Privacy Policy
 
-**Effective May 5, 2026**
+<div class="doc-meta" markdown="1">
+**Effective** May 5, 2026 · **Contact** [hello@heysnag.app](mailto:hello@heysnag.app) · **Version** 2026-05-05
+</div>
 
 This Privacy Policy describes how Snag Entertainment LLC ("Snag", "we", "us", "our") collects, uses, and shares your personal information when you use the Snag mobile application (the "App"). Snag Entertainment LLC is a Colorado limited liability company. You can reach us at hello@heysnag.app.
 
