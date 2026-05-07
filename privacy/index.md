@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy — Snag
+title: Privacy Policy
 canonical_url: https://heysnag.app/privacy
 ---
 

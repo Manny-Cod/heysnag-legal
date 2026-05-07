@@ -1,5 +1,5 @@
 ---
-title: Terms of Service — Snag
+title: Terms of Service
 canonical_url: https://heysnag.app/terms
 ---
 
