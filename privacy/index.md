@@ -144,7 +144,7 @@ We may update this Privacy Policy from time to time. The "Effective" date at the
 
 Snag Entertainment LLC
 
-Mailing address: [to be added upon LLC registration with the Colorado Secretary of State; the registered agent address will be used here]
+Mailing address: 1500 N Grant St, Ste N, Denver, CO 80203
 
 Email: hello@heysnag.app
 
