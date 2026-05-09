@@ -112,7 +112,7 @@ If we remove content in response to a notice, we will notify the user who posted
 
 We will terminate, in appropriate circumstances, the accounts of users we determine are repeat infringers.
 
-Designated DMCA agent: Snag Entertainment LLC, Attn: DMCA Agent. Email hello@heysnag.app; mailing address as listed in the Contact section below. Snag will register its DMCA agent with the U.S. Copyright Office once the LLC's mailing address is finalized; until then, please send notices to the email address above.
+Designated DMCA agent: Snag Entertainment LLC, Attn: DMCA Agent. Email hello@heysnag.app; mailing address as listed in the Contact section below. Snag's designated DMCA agent is registered with the U.S. Copyright Office's Designated Agent Directory (Registration Number DMCA-1072511) at dmca.copyright.gov.
 
 ## Feedback
 
