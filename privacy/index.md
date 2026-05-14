@@ -6,7 +6,7 @@ canonical_url: https://heysnag.app/privacy
 # Privacy Policy
 
 <div class="doc-meta" markdown="1">
-**Effective** May 5, 2026 · **Contact** [hello@heysnag.app](mailto:hello@heysnag.app) · **Version** 2026-05-05
+**Effective** May 12, 2026 · **Contact** [hello@heysnag.app](mailto:hello@heysnag.app) · **Version** 2026-05-12
 </div>
 
 This Privacy Policy describes how Snag Entertainment LLC ("Snag", "we", "us", "our") collects, uses, and shares your personal information when you use the Snag mobile application (the "App"). Snag Entertainment LLC is a Colorado limited liability company. You can reach us at hello@heysnag.app.
@@ -126,7 +126,7 @@ Global Privacy Control: where the App or any associated website operates in a co
 
 ## Children and Minors
 
-Snag is intended for users aged 17 and older, consistent with the App's intended audience and Apple App Store age rating. We do not knowingly collect personal information from children under 13. If we learn we have collected such information from a child under 13, we will delete it. If you believe a child under 13 has provided us with personal information, please contact us at hello@heysnag.app.
+Snag is intended for users aged 18 and older. Apple's App Store rates the App 17+, which is Apple's maximum self-classification cap; our own eligibility threshold is 18+. We do not knowingly collect personal information from children under 13. If we learn we have collected such information from a child under 13, we will delete it. If you believe a child under 13 has provided us with personal information, please contact us at hello@heysnag.app.
 
 ## Business Transfers
 

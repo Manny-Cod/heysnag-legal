@@ -6,7 +6,7 @@ canonical_url: https://heysnag.app/terms
 # Terms of Service
 
 <div class="doc-meta" markdown="1">
-**Effective** May 5, 2026 · **Contact** [hello@heysnag.app](mailto:hello@heysnag.app) · **Version** 2026-05-05
+**Effective** May 12, 2026 · **Contact** [hello@heysnag.app](mailto:hello@heysnag.app) · **Version** 2026-05-12
 </div>
 
 Welcome to Snag. These Terms of Service ("Terms") are an agreement between you and Snag Entertainment LLC, a Colorado limited liability company ("Snag", "we", "us", "our"), governing your use of the Snag mobile application (the "App"). By creating an account, signing in, or otherwise using the App, you agree to these Terms and to our Privacy Policy (incorporated by reference). If you do not agree, do not use the App.
@@ -23,9 +23,9 @@ The verdicts are for entertainment only. Snag is not legal advice, relationship 
 
 ## Eligibility
 
-You must be at least 17 years old to use Snag, consistent with the App's intended audience and Apple App Store age rating. If you are between 17 and the age of majority in your jurisdiction (typically 18 in the US), you represent that you have your parent or legal guardian's permission to use the App.
+You must be at least 18 years old to use Snag. Apple's App Store rates the App 17+, which is Apple's maximum self-classification cap; our own eligibility threshold is 18+.
 
-We reserve the right to suspend or terminate accounts that we reasonably believe belong to users under 17.
+We reserve the right to suspend or terminate accounts that we reasonably believe belong to users under 18.
 
 You also represent that you are not located in, under the control of, or a national or resident of any country to which the United States has embargoed goods or services, and that you are not on any U.S. government list of prohibited or restricted parties (including the U.S. Treasury Department's Specially Designated Nationals list or the U.S. Commerce Department's Denied Persons or Entity Lists).
 
